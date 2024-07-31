@@ -1,13 +1,29 @@
-
 const users = [
     {
         name:"nazrul",
-        age:45
+        age:23,
+        nid:901111,
     },
     {
-        name:"nazrul kobi",
-        age:40
+        name:"nazrul",
+        age:23,
+        nid:901111,
+    },
+    {
+        name:"nazrul",
+        age:23,
+        nid:901111,
+    },
+    {
+        name:"nazrul",
+        age:23,
+        nid:901111,
+    },
+    {
+        name:"Nazrul Islam",
+        age:20,
+        nid:901100,
     }
-];
+]
 
 module.exports = users;
